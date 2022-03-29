@@ -48,6 +48,14 @@ h2{
 	
 }
 
+h3{
+	padding: 0px;
+	padding-top: 18px;
+	font-weight: 700;
+	font-size: calc(14px + 1vw);
+	
+}
+
 .button:hover{
 	background: #112D4e;
 	color: white;
@@ -210,7 +218,3 @@ i:hover{
 	border-bottom-left-radius: 0px;
 	}	
 }
-
-
-
-
